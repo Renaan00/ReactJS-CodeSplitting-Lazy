@@ -1,0 +1,115 @@
+.box-sections .section-1,
+.box-sections .section-2,
+.box-sections .section-3 {
+    width: 100%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box-sections .section-1 {
+    width: 80%;
+    height: 70%;
+    border-radius: 10px;
+    background-color: #250235;
+}
+.box-sections .section-1 h1 {
+    color: white;
+    font-size: 1.8em;
+    padding-bottom: 15px;
+}
+.box-sections .section-1 form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box-sections .section-1 form input {
+    width: 17vw;
+    height: 4.5vh;
+    margin: 10px;
+    padding-left: 5px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+.box-sections .section-1 form button {
+    width: 17vw;
+    height: 4.5vh;
+    margin: 10px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    background-color: #472d79;
+}
+.box-sections .section-2 {
+    width: 90%;
+    height: 90%;
+    border-radius: 10px;
+    background-color: #3b0455;
+}
+.box-sections .section-2 h1 {
+    color: white;
+    font-size: 1.8em;
+    padding-bottom: 15px;
+}
+.box-sections .section-2 form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box-sections .section-2 form input {
+    width: 17vw;
+    height: 4.5vh;
+    margin: 10px;
+    padding-left: 5px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+.box-sections .section-2 form button {
+    width: 17vw;
+    height: 4.5vh;
+    margin: 10px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    background-color: #472d79;
+}
+.box-sections .section-3 {
+    width: 80%;
+    height: 70%;
+    border-radius: 10px;
+    background-color: #250235;
+}
+.box-sections .section-3 h1 {
+    color: white;
+    font-size: 1.8em;
+    padding-bottom: 15px;
+}
+.box-sections .section-3 form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box-sections .section-3 form input {
+    width: 17vw;
+    height: 4.5vh;
+    margin: 10px;
+    padding-left: 5px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+.box-sections .section-3 form button {
+    width: 17vw;
+    height: 4.5vh;
+    margin: 10px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    background-color: #472d79;
+}
